@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repository using the following command:
 
-git clone https://github.com/thekarthikr/Fylo-Landing-Page.git
+git clone https://github.com/thekarthikr/Bookmark-Landing-Page.git
 
 
 Install dependencies
